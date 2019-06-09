@@ -1,0 +1,1455 @@
+# This text of "Esperanto for beginners" by Montagu C. Butler has been
+# released to the public domain by Esperanto-Asocio de Britio (EAB), a
+# Registered Charity which received all assets from the British
+# Esperanto Association (BEA) in 1999. To the best of our knowledge
+# and belief no other entity has any copyright interest in this work.
+# You may do whatever you want with the text. There are no conditions.
+# However, if you produce a derivative work it would be helpful if you
+# could indicate its provenance, for example with the words: Based on
+# "Esperanto for Beginners" by Montagu C. Butler.
+
+# EAB's "Esperanto Mini-Course" (2009, ISBN 978-0-902756-28-1) was
+# based on this text. At the time of writing, June 2019, that text has
+# not been released to the public domain.
+
+# "Esperanto for beginners" by Montagu C. Butler (1884-1970) appeared
+# in more than 20 editions before 1939. This text is based on an
+# edition which has neither a number nor a date, but apparently came
+# out during the last part of the author's life. The words "PRICE
+# SIXPENCE" and "L.P.Ltd" may be sufficient to identify it.
+
+# Only the text from pages 2-24 is reproduced here. The original
+# edition also has a 4-page foreword on pages i-iv. An advertisement
+# for other books on page 21 is also omitted and replaced here by
+# "[...]". The page reference "p. 2" refers to paragraph 1.
+
+# The original edition used plain, italic and bold faces. Plain was
+# used for explanations in English, italic for English translations of
+# Esperanto (except in the "Vocabulary"), and bold for all Esperanto
+# words. In the released TXT file, italic text is shown _like this_,
+# but bold text is not marked. In the released HTML file, both italic
+# and bold are marked. However, in the original edition, the face used
+# for punctuation is sometimes unclear and sometimes inconsistent and
+# is not reproduced faithfully.
+
+        ESPERANTO for BEGINNERS
+        By MONTAGU C. BUTLER
+
+                LESSON I.
+
+1. We will begin by learning the names of a few objects. It is
+not easy to show the exact sound of the Esperanto vowels by means
+of English spelling, but the following will give you a general idea.
+Pronounce the last syllable but one in every word more loudly
+than the others, and the last syllable lightly. There are no silent
+letters. Be especially careful to sound the letter "r."
+
+  A in Esperanto is pronounced _ah_ (as in _Pa_, _Ma_).
+
+    frato  _(frah-to), brother_
+    kafo   _(kah-fo), coffee_
+    kato   _(kah-to), cat_
+    patro  _(pah-tro), father_
+    tablo  _(tah-blo), table_
+    tago   _(tah-go), day_
+
+  E in Esperanto = _e_ in _lend_, _there_.*
+
+    benko  _(ben-ko), bench, form_
+    besto  _animal_
+    kreto  _chalk_
+    meblo  _article of furniture_
+    stelo  _star_
+    teo    _tea_
+
+  I in Esperanto = _i_ in _machine_, _ee_ in _see_ (not too long).
+
+    bildo  _(beel-do), picture_
+    filo   _(fee-lo), son_
+    libro  _(lee-bro), book_
+    lito   _(lee-to), bed_
+    piro   _(pee-ro), pear_
+    viro   _(vee-ro), man_
+
+  O in Esperanto = _o_ in _glory_, _poem_.*
+
+    floro  _flower_
+    homo   _person, human being_
+    loko   _place_
+    pomo   _apple_
+    pordo  _door_
+    rozo   _rose_
+
+  U in Esperanto = _u_ in _rude_, _oo_ in _boot_ (not too long).
+
+    frukto  _(frook-to), fruit_
+    hundo   _(hoon-do), dog_
+    luno    _(loo-no), moon_
+    muro    _(moo-ro), wall_
+    plumo   _(ploo-mo), pen_
+    suno    _(soo-no), sun_
+
+* The Esperanto E and O are heard in the notes _ray, doh_, sung on a prolonged
+note, but without the final glide (_ray-ee, doh-oo_) of Southern English speech
+
+2. In Esperanto all names of things ("nouns") end in O.
+
+3. Esperanto has no word for _a_ or _an_. Patro = _father_, or, _a
+father_. The word for _the_ is la, pronounced _lah_ as in music.
+
+4. Kio estas tio _(Kee-o est-ahs tee-o)? What is that?_ Tio
+estas la pordo. Kio estas kato? Kato estas besto. Kio
+estas tablo? Tablo estas meblo. Kio estas pomo? Pomo
+estas frukto. Kio estas rozo? Rozo estas floro.
+
+5. N.B.--Answer KIO? with a word ending with O.
+
+6. Words that describe nouns are called _Adjectives_. Adjectives
+in Esperanto end with A. Here are some:
+
+    alta      _(ahl-tah), high_
+    bela      _(bel-ah), beautiful_
+    bona      _(bo-nah), good_
+    dika      _(dee-kah), thick_
+    forta     _(for-tah), strong_
+    granda    _(grahn-dah), large_
+    kontenta  _contented_
+    longa     _(lon-gah), long_
+    mola      _soft_
+    nova      _new_
+    pura      _(poo-rah), clean_
+    sana      _(sah-nah), well, healthy_
+    varma     _warm_
+    vera      _(veh-rah), true_
+
+7. Model:
+
+Plena glaso, _a full glass_. La plena glaso, _the full glass_.
+La glaso estas plena, _the glass is full_.
+
+Granda klaso, _a large class_. La granda klaso, _the large class_.
+La klaso estas granda, _the class is large_.
+
+8. Vary the following in the same way, and translate: Alta
+tablo. Bela floro. Bona teo. Dika muro. Forta kafo.
+Granda bildo. Kara (_dear_) patro. Longa tago. Mola lito.
+Nova luno. Pura loko. Sana homo. Vera libro.
+
+9. Remember to stress the last syllable but one.
+
+    fe-NES-tro     _window_
+    ka-ME-no       _fireplace_
+    pa-PE-ro       _paper_
+    pla-FO-no      _ceiling_
+    pu-PI-tro      _desk_
+    ta-BU-lo       _board_
+    ler-NAN-to     _pupil_
+    in-stru-IS-to  _teacher_
+
+Use these words with adjectives after the above model.
+
+10. The Esperanto letter J has the sound of English _Y_.
+
+    kajero   _(kah-yeh-ro), copybook_
+    krajono  _(krah-yo-no), pencil_
+    lernejo  _(lern-eh-yo), school_
+    objekto  _(ob-yek-to), object_
+
+    Tio estas objekto. La objekto estas krajono.
+    Kio estas la domo (_house_)? La domo estas lernejo.
+
+11. KIA (_kee-ah_) estas la benko? (_Of what kind is the bench?
+What kind of a bench is it?_). La benko estas longA, _the bench is
+long_.
+
+N.B.--Answer KIA? with a word ending with A.
+
+12. Answer these questions: Kia estas la pordo? la plafono?
+la plumo? la bildo? la tago? la krajono?
+
+                LESSON II.
+
+13. A word may be given the opposite meaning by putting the
+syllable MAL (pronounced _mahl_) in front of it.
+
+    juna     _young_        maljuna  _old_
+    luma     _light_        malluma  _dark_
+
+Thus, from the words you have learned you can form
+
+    maldika    _thin_
+    malgranda  _small_
+    mallonga   _short_
+    malplena   _empty_
+    malsana    _ill_
+
+    mola pano   _soft bread_     malmola pano   _hard bread_
+    pura akvo   _clean water_    malpura akvo   _dirty water_
+    bona knabo  _a good boy_     malbona knabo  _a bad boy_
+
+14. Read and translate: Malalta plafono. Malbela viro.
+Malbona piro. Maldika glaso. Malforta teo. Malgranda filo.
+Mallonga krajono. Malnova kajero. Malplena glaso. Malpura
+objekto. Malsana frato. Malvarma kafo. Malvera
+libro. Maljuna hundo. Malkontenta kato.
+
+15. In English, to speak of more than one person or thing, we
+generally add "_s_". In Esperanto we add "J" (The Esperanto
+OJ sounds like _OY_ in _boy_). For example:
+
+    patro  _father_        patroj  _(pah-troy), fathers_
+    mano   _hand_          manoj   _(mah-noy), hands_
+    boto   _boot_          botoj   _(bo-toy), boots_
+
+Repeat all the words on p. 2 with the ending oj instead of with o,
+and translate.
+
+16. This letter J is added also to the adjective: thus in the
+Singular (for one thing) we have -A -O; in the plural (for more
+than one) -AJ -OJ.
+
+N.B.--AJ OJ rhyme with _my boy_.
+
+17. Repeat (8) and (14) in the plural. Thus:
+
+    Altaj tabloj    _high tables_
+    Malbelaj viroj  _ugly men_
+
+18. The word estas means _is_ or _are_. Thus:
+
+    La tasko estas simpla     _The task is simple_
+    La taskoj estas simplaj   _The tasks are simple_
+    La vortoj estas longaj    _The words are long_
+    La forkoj estas akraj     _The forks are sharp_
+    La plankoj estas lignaj   _The floors are wooden_
+    La benkoj estas malmolaj  _The benches are hard_
+
+19. The letter Ŝ ("s with a hat") = the English _sh_. Ŝi mean
+_she_, and has the same sound.
+
+    fiŝo   _(fee-sho), a fish_
+    freŝa  _(fesh-ah), fresh_
+    muŝo   _(moo-sho), a fly_
+    ŝafo   _(shah-fo), a sheep_
+    ŝipo   _(shee-po), a ship_
+    ŝuo    _(shoo-o), shoe_
+
+20. Learn the following words, which frequently occur:
+
+   *de   _of_
+    en   _in_
+    kaj  _(ky), and_
+   *ne   _no, not_
+    sed  _but_
+    sur  _(soor), on_
+
+* Pronounce _de_ as in _de_(bt), _ne_ as in _Ne_(d).
+
+21. La nomo de la viro (_the name of the man, the man's name_)
+estas Ernest. La floro estas en la vazo (_vase_). La teo estas
+en la taso (_cup_). La libroj estas sur la breto (_shelf_), kaj la
+kretoj estas en la skatolo (_box_).
+
+22. La fiŝo estas freŝa. La fiŝoj estas freŝaj. La pano ne
+estas (_is not_) freŝa. La ŝafo ne estas granda. La ŝafoj ne
+estas (_are not_) grandaj. La libro de la knabo estas sur la
+planko. Ŝi estas en la domo. La fiŝo estas en la akvo. La
+viroj estas en la ŝipo. La libro kaj la plumo estas sur la
+tablo. La patro estas bona, sed la frato estas malbona.
+Ŝi ne estas bela, sed ŝi ne estas malbela.
+
+23. En la libro estas (_there is_) bildo. En la libro estas
+(_there are_) bildoj.
+
+24. Answer the following questions:
+
+KIO ESTAS sur la benko? ... en la glaso? ... sur la
+maro (_sea_)? ... en la lernejo? ... sur la plafono?
+
+25. KIE (_kee-eh_) estas (_Where is_) la libro? La libro estas
+TIE (_tee-eh_) (_there_), sur la skatolo.
+
+26. KIE estas (_Where are_) la kretoj? La kretoj estas tie,
+en la skatolo.
+
+                LESSON III.
+
+27. You have learnt that estas means _is_ or _are_. These words
+relate to the present time. For instance, la pomo estas sur la
+tablo means that the apple is on the table at the present time.
+All words denoting action at the present time ("verbs in the
+present tense") end in -AS.
+
+    Li       _He_
+    dormas   _sleeps_
+    kantas   _sings_
+    kuras    _runs_
+    kuŝas    _lies-down_
+    laboras  _works_
+    legas    _reads_
+    ludas    _plays_
+    ploras   _weeps, cries_
+    ridas    _laughs_
+    sidas    _sits_
+    skribas  _writes_
+    staras   _stands_
+
+28.
+    Mi   _I, me_
+    Vi   _you_
+    Ĝi   _it_ (Pronounce _jee_, like _gee_ in _gee-gee_).
+    Li   _he, him_
+    Ŝi   _she, her_
+    Ni   _we, us_
+    Ili  _they, them_
+
+29. Mi sidas kaj skribas. Li kuŝas kaj dormas. Ni staras
+kaj legas. Ili ne ploras, ili ridas. Vi ne laboras, vi ludas.
+Kie ĝi dormas?
+
+    Mi sidas          _I sit (am-sitting)_
+    La suno brilas    _The sun shines (is-shining)_
+    La hundoj kuras   _The dogs run (are-running)_
+    La birdoj flugas  _The birds fly (are-flying)_
+
+La kato kuŝas sur la lito. La knabo dormas en la lito.
+La onklo (_uncle_) laboras sur la kampo (_field_). Ni ne staras
+sur la benkoj, ni sidas sur ili.
+
+30. KIU _(kee-oo), (Who)?_ Kiu estas vi? Mi estas (_I am_)
+Dorothy. Kiu kantas? Ŝi kantas. Kiu estas malbona knabo?
+Ne mi. Kiu parolas (_speaks_)? Vi.
+
+31. AL, _to_. Ŝi kantas al li, sed li ne kantas al ŝi. Ili kuras
+al ni. Ni legas al ili. La filo skribas al la patro. Al kiu
+vi parolas?
+
+32. APUD, _near, close-to_. La teo estas apud la kafo. La
+hundo dormas apud la kameno. Li sidas apud ŝi. La lito
+staras apud la muro.
+
+33. SUB, _under, beneath_. Ili sidas sub la luno. La planko
+estas sub la plafono. La skatolo kuŝas sub la lito. La
+papero estas sub la tablo.
+
+34. In English, the letter "c" sometimes has the sound of "k",
+sometimes of "s". In Esperanto the letter C always has the
+sound _ts_.
+
+    dancas   _(dahnt-sas), dances_
+    facila   _(faht-see-lah), easy_
+    laca     _(laht-sah), tired_
+    paco     _(paht-so), peace_
+    penco    _(pent-so), penny_
+    sincera  _(sint-se-rah), sincere_
+
+35. The Esperanto letter Ĉ ("c with a hat") = the English _ch_,
+as in the word _church_.
+
+    ĉambro    _(chahm-bro), room_
+    ĉapelo    _(chap-el-o), hat_
+    ĉapo      _(chah-po), cap_
+    ĉielo     _sky_
+    ĉokolado  _chocolate_
+    riĉa      _rich_
+
+36. We have already learnt four question-words beginning
+with a K-, and in English with _WH_-.
+
+    Kio, _what?_ Kia, _what-kind-of?_ Kie, _where?_ Kiu, _who?_
+
+There is another class of questions, that requires the answer _Yes_
+or _No_ (Jes or Ne). These are formed by beginning the sentence
+with the word ĈU (= _whether_). Any statement may be turned
+into a question by placing ĉu at the beginning. Thus:
+
+37.
+    La bano estas preta      _The bath is ready_
+    Ĉu la bano estas preta?  _Is the bath ready?_
+
+The meaning is: "_(Tell me) (I want to know) whether the bath
+is ready_".
+
+    Jes, ĝi estas preta    _Yes, it is ready_
+    Ne, ĝi ne estas preta  _No, it is not ready._
+
+    Ĉu li dancas? _Does he dance? Is he dancing?_
+        (Jes, li dancas. Ne, li ne dancas).
+
+    Ĉu la birdoj kantas? _Do the birds sing? Are the birds singing?_
+        (Jes, ili kantas. Ne, ili ne kantas).
+
+    Ĉu la noktoj estas longaj? _Are the nights long?_
+
+    Ĉu la kuzo estas juna? _Is the cousin young?_
+
+38. Ĉu mi estas prava? _Am I right?_
+
+(Kompreneble vi estas, or, Kompreneble jes, _Of course
+you are_. Kompreneble ne, _Of course not, of course you aren't_.
+Eble jes, _Perhaps you are, perhaps so_. Eble ne, _Perhaps not_.
+Efektive, vi estas malprava, _As a matter of fact, you are wrong_).
+
+39. Ĉu li estas tie? _Is he there?_
+
+(Eble jes, _Perhaps he is_. Kompreneble ne, _Of course not_.
+Se jes, _If so, if he is_ ... Se ne, _If not, if he isn't_ ...).
+
+40.
+    Li estas tie, ĉu ne?  _He is there, isn't he?_
+    Li ne estas tie, ĉu?  _He isn't there, is he?_
+
+41.
+    Kiu legas? La nevo (_nephew_) legas.
+    Al kiu li legas? Li legas al mi.
+    Kia li estas? Li estas bona.
+    Kie li estas? Li estas en la ĉambro.
+    Kio estas tio? Ĝi estas nur (_only_) libro.
+    Kia estas la libro? Ĝi estas granda.
+    Kie ĝi estas? Ĝi estas sur la tablo.
+    Ĉu la libro estas longa? Ne, ĝi ne estas longa:
+        ĝi estas tre (_very_) mallonga.
+
+                LESSON IV.
+
+42. You have learnt that words showing action in the present
+("verbs in the present tense") end in AS.
+
+For action in the past ("verbs in the past tense") we use the
+ending IS. (Pronounce _-ees_).
+
+    estis    _was, were_
+    laboris  _worked_
+    ludis    _played_
+    ripozis  _rested_
+    venis    _came_
+    vokis    _called_
+
+    La infano ludis        _The child played (_or_ was-playing)_
+    La viroj laboris       _The men worked (_or_ were-working)_
+    En la taso estis kafo  _In the cup (there)-was coffee_
+    Li estis tie, ĉu ne?   _He was there, wasn't he?_
+    Ĉu li venis?           _Did he (has he) come?_
+
+43. Repeat the verbs in paragraph 27 with the ending -is instead
+of -as, and translate.
+
+44. The Esperanto letter Ĝ ("g" with a hat) has the "soft"
+sound of the English words _George, gem_, and of the English letter
+"j." But plain G (without the hat) always has the "hard"
+sound of "g" in _go, get_. Thus:
+
+    ĝardeno  _garden_, is pronounced _jar-deh-no_
+    neĝo     _snow_           ,,     _neh-jo_
+    seĝo     _chair_          ,,     _seh-jo_
+
+    aĝo      _age_
+    danĝero  _danger_
+    kaĝo     _cage_
+    naĝas    _swims_
+    paĝo     _page_
+    preĝejo  _church_
+    saĝa     _wise_
+    sovaĝa   _savage_
+    vilaĝo   _village_
+
+45. KOLOROJ (_COLOURS_)
+
+    blua    _blue_
+    blanka  _white_
+    bruna   _brown_
+    flava   _yellow_
+    griza   _grey_
+    nigra   _black_
+    oranĝa  _orange_
+    ruĝa    _red_
+    verda   _green_
+
+Use these words with nouns. Thus: Kia estas la koloro de
+banano? Banano estas flava.
+
+46. You know that patro means _father_, and have probably asked
+yourself what is the word for _mother_. Study the following:
+
+    bovo, _ox_; bovino, _cow_.
+    ĉevalo, _horse_; ĉevalino, _mare_.
+    nepo, _grandson_; nepino, _granddaughter_.
+    reĝo, _king_; reĝino, _queen_.
+    servanto, _man-servant_; servantino, _maid-servant_.
+
+Notice that the feminine is formed by adding the final syllable
+(or "suffix") IN before the ending o. So _mother_ is patrino.
+
+47. Model: Avo kaj avino, _grandfather and grandmother_. Form
+similar phrases with the words filo, frato, kato, knabo, kuzo,
+lernanto, muŝo, nevo, onklo, ŝafo, viro.
+
+48. NUMEROJ (_NUMBERS_)
+
+     1  unu
+     2  du
+     3  tri
+     4  kvar
+     5  kvin
+     6  ses
+     7  sep
+     8  ok
+     9  naŭ
+    10  dek
+
+Pronounce both the k and the v in kvar, kvin. Naŭ sounds
+like the English word _now_.
+
+    11 dek unu, 12 dek du, ... 19 dek naŭ.
+    Dek tri = 10 + 3 (two words, showing addition).
+    20 dudek, 21 dudek unu. 99 naŭdek naŭ.
+    Tridek = 3 × 10 (one word, showing multiplication).
+    100 cent, 200 ducent, 909 naŭcent naŭ, 1000 mil.
+
+49.
+    Du birdoj en unu kaĝo, _two birds in one cage_.
+    La tri knabinoj ludis en la ĝardeno.
+    Sur la seĝo estis kvar libroj kaj du plumoj.
+    Ses aŭ sep glasoj estas sur la tablo.
+    En la strato (_street_) estas ducent domoj.
+    La domo staras inter du arboj (_between two trees_).
+
+50. Say in Esperanto words: 5 birdoj, 3 arboj, 16 domoj,
+8 infanoj, 70 paĝoj, 17 jaroj (_years_).
+
+    Kiu numero venas post (_after_) 6?
+    Kiu numero venas antaŭ (_before_) 13?
+    Kiu numero venas inter 7 kaj 9?
+
+    2 + 3 = 5. Du kaj tri (du plus tri) estas kvin.
+
+51. KIOM (_how many_) estas 5 + 6, 4 + 9, 16 + 8?
+
+KIOM DA (_How many (of)_ libroj (kretoj, seĝoj) estas sur
+la tablo? (Sur la tablo estas ...). Kiom da homoj (viroj,
+virinoj, infanoj, benkoj, seĝoj) estas en la ĉambro? Kiom
+da infanoj sidas? Kiom staras? Kiom da paĝoj estas en la
+lerno-libro? Kiom da benkoj estas en la klas-ĉambro?
+Kiom da vazoj estas sur la kamen-breto _(mantel-piece)?_
+
+52. KIAL (_why_) vi venis? Mi venis, ĈAR (_because_) vi vokis.
+Kial vi silentas (_are silent_)? Ĉar la bebo (_baby_) dormas.
+Kial ŝi kantas? Ĉar ŝi estas sana. Kial vi ridas? Ĉar la
+suno brilas, kaj mi estas feliĉa (_happy_).
+
+                LESSON V.
+
+53. Let us examine the sentence Ŝi vidas, _she sees_. One may
+ask: Kiu vidas? _Who sees?_ and the answer is Ŝi, _she_. Ŝi is the
+"subject" of the sentence, _i.e._, the one that does the action.
+
+But it is not enough to know that she sees. We want to know
+what is the object (thing or person) that she sees. The "object"
+of the action is shown by the letter N.
+
+    Ŝi vidas kiuN? _She sees ... whoM?_ (or)
+        KiuN ŝi vidas? _WhoM does she see?_
+    Ŝi vidas liN, _she sees hiM_.
+    Ŝi vidas iliN, _she sees theM_.
+
+    Li vokas, _he calls_. (Kiu vokas? Li).
+    Li vokas ŝin, _He calls her_. (Vokas kiuN? ŜiN).
+    Mi donas ĝiN al vi, _I give it to you_.
+    Mi dankas viN, _I thank you_.
+
+    Ŝi vidas kioN? _She sees ... what?_ (or)
+        KioN ŝi vidas? _What does she see?_
+    Ŝi vidas arboN, _She sees a tree_.
+
+Here the subject, the one doing the action, is ŝi; the object
+of the action is arbon.
+
+54.
+    Mi amas vin, _I love you_. (Kiu amas? Mi.)
+    La infano amas ĉokoladon.
+        (Kiu amas? La infano. Amas kioN? ĉokoladoN)
+    La patrino legas (kioN?) libron.
+    La patro skribas (kioN?) leteron aŭ poŝtkarton.
+    La infanoj ludas kriketon, futbalon, kaj tenison.
+    La instruisto amas la infanojn.
+
+55.
+    aĉetas   _buys_
+    aŭdas    _hears_
+    havas    _has_
+    helpas   _helps_
+    lernas   _learns_
+    manĝas   _eats_
+    punas    _punishes_
+    rompas   _breaks_
+    trinkas  _drinks_
+    tuŝas    _touches_
+    vendas   _sells_
+    viŝas    _wipes_
+
+56. Ĉu vi amas min? Kion vi havas en la mano? Ĉu vi
+vendis dek bananojn aŭ dek du? Kial vi ne lernis la lecionon?
+Ĉu vi aŭdas tion? Kiu manĝis oranĝojn en la lernejo? Ĉu
+vi helpis la knabinojn? Kial la instruisto punis la knabojn?
+Kiu rompis la seĝon? Kion vi trinkas? Kial vi tuŝis lin?
+Kie estas la hundo, kiun vi aĉetis?
+
+57. N.B.--Do NOT use the letter n
+    (a) in the subject of the sentence
+    (b) after est-. Ĝi estas teo (not, teon).
+    (c) after al (or other "preposition").
+
+    Mi dankas viN (Or: Mi dankas AL vi).
+    Li vokas niN (Or: Li vokas AL ni).
+
+58. An adjective describing a noun must be followed by the
+same letters as the noun. We call this "the agreement of the
+adjective with the noun."
+
+    Tio estas  blua    floro    _That is a blue flower_
+    Ili estas  bluaJ   floroJ   _They are blue flowers_
+    Mi amas    bluaN   floroN   _I love a blue flower_
+    Mi amas    bluaJN  floroJN  _I love blue flowers_
+
+59. Li prenis (_took_) du ruĝajn librojn, kaj tenis (_held_) ilin en
+la mano. Li skribis al mi longan leteron kaj bildan poŝtkarton.
+Ni aŭdis tri belajn kantojn. Ili donis al mi blankan
+paperon. Ĉu li havas brunajn harojn (_hairs_) aŭ nigrajn?
+Vi ne viŝis la nigran tabulon. Mi legis tre interesajn librojn.
+Kial vi manĝas verdajn pomojn?
+
+60.
+    KIAN infanon vi amas? (Mi amas) Bonan.
+    KIAJN infanojn vi amas? (Mi amas) Bonajn.
+
+                LESSON VI.
+
+61. The ending OS denotes future time (or "tense").
+
+    Mi estos, _I shall-be_. Li estos, _He will-be_.
+    Ni skribos baldaŭ, _We shall-write soon_.
+    Ŝi venos, ĉu ne? _She will-come, won't she?_
+    Ĉu vi ludos kun mi? _Will you play with me?_
+
+62.
+    Hieraŭ li kantis  _Yesterday he sang_
+    Hodiaŭ li kantas  _To-day he sings_
+    Morgaŭ li kantos  _To-morrow he will sing_
+
+63.
+    KIAM ŝi venis? Ŝi venis hieraŭ.
+    Kiam ŝi iros (_go_)? Ŝi iros morgaŭ.
+    Kion vi faras (_What do you do_), kiam vi estas feliĉa?
+        Kiam mi estas feliĉa, mi kantas.
+    Hodiaŭ estas mardo (_Tuesday_), hieraŭ estis lundo
+        (_Monday_), kaj morgaŭ estos merkredo (_Wednesday_).
+
+64. You already know the word for _I_: it is Mi. Now you will
+want to know the word for _my_ or _mine_: it is MIA.
+
+The word _my_ shows possession; so do _our_, _ours_, _your_, _yours_,
+_her_, _hers_, _his_, _its_, _their_, and _theirs_.
+
+By adding A to the words denoting _you_, etc., (par. 28), you
+get the other "possessive" words; thus:
+
+    From ni  (_we_)   you get nia  (_our, ours_)
+     ,,  vi  (_you_)    ,,    via  (_your, yours_)
+     ,,  li  (_he_)     ,,    lia  (_his_)
+     ,,  ŝi  (_she_)    ,,    ŝia  (_her, hers_)
+     ,,  ĝi  (_it_)     ,,    ĝia  (_its_)
+     ,,  ili (_they_)   ,,    ilia (_their, theirs_)
+
+65. When these words refer to more than one thing, you must
+add the letter J just as you do for the nouns, because they are
+really adjectives.
+
+    _My map_       mia mapo     _My maps_       miaj mapoj
+    _Your friend_  via amiko    _Your friends_  viaj amikoj
+    _His house_    lia domo     _His houses_    liaj domoj
+    _Their son_    ilia filo    _Their sons_    iliaj filoj
+    _Its flower_   ĝia floro    _Its flowers_   ĝiaj floroj
+    _Her brother_  ŝia frato    _Her brothers_  ŝiaj fratoj
+
+66. The suffix ET diminishes (eta = _tiny_), thus:
+
+    floro    _a flower_      floreto    _a floret_
+    libro    _a book_        libreto    _a booklet_
+    monto    _a mountain_    monteto    _a hill_
+    knabo    _a boy_         knabeto    _a tiny boy_
+    knabino  _a girl_        knabineto  _a tiny girl_
+
+67. In the same way the suffix EG magnifies:
+
+    domo, _house_; dometo, _cottage_; domego, _mansion_.
+    nebulo, _a fog_; nebuleto, _a haze_; nebulego, _a 'pease soup' fog_.
+    pluvo, _rain_; pluveto, _drizzle_; pluvego, _deluge_.
+    ŝtono, _a stone_; ŝtoneto, _pebble_; ŝtonego, _a boulder_.
+    manĝas, _eats_; manĝetas, _nibbles_; manĝegas, _gorges_.
+    ploras, _cries, weeps_; ploretas, _whimpers_; ploregas, _howls_.
+    trinkas, _drinks_; trinketas, _sips_; trinkegas, _swills_.
+    bela, _beautiful_; beleta, _pretty_; belega, _superb_.
+    blua, _blue_; blueta, _bluish_; bluega, _deep blue_.
+    malsana, _ill_; malsaneta, _off colour_; malsanega, _at death's door_.
+
+68. La akvo estas nur (_only_) varmeta, sed mi deziras (_desire_)
+akvon varmegan. La karega patrineto venos morgaŭ. Lia
+hundo estas grandega. La knabeto estis bonega hieraŭ.
+Vi havas malpuregajn manojn. La bebo ripozas en liteto.
+Mi amegas la patron. Hodiaŭ ŝi dormetas post la manĝego.
+Mi estis lacega. La eta knabo (knabeto) timegis, kiam li
+vidis la bestegon.
+
+69. The word DE may mean _from_ as well as _of_.
+
+    La ĉapelo pendas de la hoko, _The cap hangs from the hook_.
+    La rivero fluas de la montoj al la maro, _The river flows
+        from the mountains to the sea_.
+    La birdoj saltis de unu branĉo al alia, _The birds jumped
+        from one branch to another_.
+    La infaneto iris de la seĝo al la tablo.
+    Kial vi kuras de loko al loko?
+
+                LESSON VII.
+
+70. As the words mia, via, etc., are adjectives, they take the
+letters j and n in the same way.
+
+    Li uzas mian inkon        _He is-using my ink_
+    Johano aĉetis nian katon  _John bought our cat_
+    Kiu havas miajn librojn?  _Who has my books?_
+    Viaj libroj estas tie     _Your books are there_
+
+71. Viaj taskoj estas simplaj. Ĉu vi vidis mian onklinon?
+Kial vi ne kombas viajn harojn? Kie estas niaj paperoj?
+Kiu manĝis miajn ĉokoladojn? Mi lernos miajn lecionojn.
+Ni vidos nian reĝinon. Kiam vi skribas viajn leterojn?
+
+72. Diru al mi, _Tell me_ (_Say to me_).
+
+Mi petas vin, _I beg you_. This is usually shortened to
+Mi petas = _please_.
+
+Diru al mi, mi petas, kiu vi estas? ... kie vi loĝas (_live_)?
+... kion vi legas? ... kion mi faras? ... kiun vi amas? ...
+kiom da fratoj vi havas?
+
+73. KIO = _what (thing)_, TIO = _that (thing) (as a whole)_. Kio
+estas tio? _What is that?_
+
+KIU = _which (one)_, TIU = _that (one)_; _i.e._, _which_ or _that
+particular thing or person_ as distinct from others.
+
+    Kiun pomon vi preferas? _Which apple do you prefer?_
+    Mi amas tiun, _I love that particular one._
+    Mi malamas tiun viron, _I hate that man._
+    Kiun libron vi legas? Mi uzos tiun plumon.
+
+74. Kiu, standing alone, and meaning _who_ (30), is short for
+kiu (persono). Kiu (persono) parolas?
+
+75. The word ĈI before (or after) a T-word brings it near (_that_
+becomes _this_).
+
+    Tie, _in that place, there_; ĉi tie, _in this place, here_.
+    Tio, _that thing_; ĉi tio, _this thing_.
+    Tiu, _that one_; ĉi tiu, _this one_.
+
+76.
+    Li ne estas tie, li estas ĉi tie (or, tie ĉi) _He is not there,
+        he is here._
+    Tio estas fenestro; ĉi tio estas tablo. _That thing over
+        there is a window; this thing near me is a table._
+    Mi ne legis tiun libron, sed mi legas ĉi tiun. _I have not
+        not read that book, but I am reading this one._
+
+77.
+    TIUJ, _those_; ĉi tiuj, _these_.
+        (Pronounce _tee-ooy_, with the stress on _tee_).
+    Tiuj viroj, _those men_. Ĉi tiuj viroj, _these men_.
+    Mi legis tiujn librojn, _I have read those books_.
+        (Pronounce like "_(s)ee (y)ou in_ a minute").
+
+78. Diru al mi, mi petas, kiu estas tiu bela knabeto? La
+libretoj estas sur ĉi tiu tablo. Kial vi ne estis ĉi tie, kiam ili
+venis? Ĉu vi vidas tiujn homojn? Kio estas ĉi tio? Tiuj
+infanoj lernas aritmetikon, ĉi tiuj lernas geografion. Kiu
+estis en la ĉambro? Kiuj estis en la ĉambro? Kiujn librojn
+vi prenis?
+
+                LESSON VIII.
+
+79. Look at the word instrui (_een-struu-ee_). The English word
+_to_ before a verb is represented in Esperanto by the ending -i.
+Thus, the word instrui means _to teach_. Similarly: skribi, _to
+write_; ludi, _to play_, and so on.
+
+If from instrui we cut off the i, we get instru--which is called
+the _root_ of the word. By adding to the root the suffix -IST (which
+means "one habitually connected with") and then the final o
+to make it a noun, we get instruisto, _one who teaches, a teacher_.
+
+Here are some more examples:
+
+    Juĝi, _to judge_; juĝisto, _one who judges, a judge_.
+    Labori, _to work_; laboristo, _a workman, a labourer_.
+    Pentri, _to paint (pictures)_; pentristo, _an artist_.
+    Rabi, _to rob_; rabisto, _a robber_.
+
+80.
+    From boto, _a boot_ (root, bot) form _bootmaker_.
+     ,,  dento, _a tooth_ (root, dent) form _dentist_.
+     ,,  baki, _to bake_ (root, bak), form _baker_.
+
+Translate: ĉapelisto, floristo, ĝardenisto, kantisto,
+kriketisto, lignisto, vendisto. Repeat the above words in the
+feminine, thus: dentistino, _a lady-dentist_.
+
+81. The suffix -IL means "the tool or instrument by which
+something is done." Here are some examples:
+
+    Haki    _to chop_    hakilo    _a chopper, axe_
+    Kudri   _to sew_     kudrilo   _a needle_
+    Linio   _a line_     liniilo   _a ruler_
+    Ludi    _to play_    ludilo    _a toy_
+    Tranĉi  _to cut_     tranĉilo  _a knife_
+
+82. PER, _by means of, with_. Ni hakas per hakilo. Kial vi
+kombas viajn harojn per forko, kaj ne per kombilo? Tio
+estas la viŝilo, per kiu mi viŝas la tabulon.
+
+Model: Oni tondas per tondilo; _One shears with a pair of
+scissors_. Using the words fajfi, _to whistle_, fosi, _to dig_, presi _to
+print_, segi, _to saw_, translate: _One whistles with a whistle; one
+digs with a spade; one prints with a printing-press, one saws with
+a saw._
+
+83. The suffix AR means "a collection of."
+
+    Arbo, _a tree_; arbaro, _a collection of trees, forest_.
+    Libro, _a book_; libraro, _a library_.
+    Kampo, _a field_; la kamparo, _the country_.
+    Mapo, _a map_; maparo, _an atlas_.
+    Ŝtupo, _stair_; ŝtuparo, _staircase_; ŝtupetaro, _ladder_.
+    Vagono, _a railway car_; vagonaro, _a train_.
+    Vorto, _a word_; vortaro, _a dictionary_.
+
+Translate similarly: _a circle of friends; a herd of oxen; a suite
+of rooms; a band of brothers; a collection of songs; a crowd of
+boys; a flock of sheep; a fleet of ships._
+
+                LESSON IX.
+
+84. We have already learnt the words baldaŭ, nun, hieraŭ,
+hodiaŭ, morgaŭ. They show the _time_ when an action occurs,
+and are called _Adverbs of Time_. Here are three more:
+
+    ĉiam    _always_
+    jam     _already_
+    neniam  _never_
+
+85. Ĉu vi baldaŭ venos? Jes, mi venos hodiaŭ. Ĉu la
+teo estas preta nun? Mi jam skribis du leterojn. Kiu venos
+morgaŭ? Kial la ĝardenisto ne venis hieraŭ? Hodiaŭ mi
+aĉetos segilon. Mi jam havas tranĉilon. Mi neniam uzis
+hakilon. Ne nun, sed baldaŭ. Mi ĉiam kantas, kiam mi
+estas feliĉa.
+
+86. Other adverbs show the _manner_ or the _place_ of an action.
+Take the following sentences:
+
+    _The fire burns brightly._
+    _The man goes everywhere._
+
+The word _brightly_ tells _how_ the fire burns. The word _everywhere_
+tells _where_ the man goes.
+
+Here are a few Adverbs of Manner:
+
+    bele     _beautifully_
+    bone     _well_
+    hele     _brightly_
+    lerte    _cleverly_
+    malbone  _badly_
+    simple   _simply_
+
+87. You will see that all these words end in E. An adverb may
+be formed from any adjective by adding e to the root instead
+of a, thus:
+
+    rapida _quick_    (rapid is the root)    rapide, _quickly_
+    saĝa   _wise_     (saĝ is the root)      saĝe, _wisely_
+
+88. Now make the following adverbs for yourself.
+
+    From dolĉa, _sweet_     form _sweetly_
+     ,,  klara, _clear_      ,,  _clearly_
+     ,,  laŭta, _loud_       ,,  _loudly_
+     ,,  malrapida, _slow_   ,,  _slowly_
+     ,,  sincera, _sincere_  ,,  _sincerely_
+
+89. Other adverbs ending with E already learnt are eble,
+efektive, kompreneble, tie, tre.
+
+90. Here are some Adverbs of Place:
+
+    ĉie    _everywhere_
+    nenie  _nowhere_
+    for    _away_
+
+Li ĉiam parolas bone. Mia kuzino neniam skribas klare.
+Tiu virino ĉiam kantas gaje. La leono sovaĝe atakis min.
+Li parolas tre saĝe. Hieraŭ la suno varme brilis. Mi serĉis
+(_looked for_) lin ĉie, sed trovis lin nenie. Ili vivas tre simple.
+La rabisto rapide kuros for. Mi ofte vidas la ŝiparon. Li
+malofte uzas vortaron. Kompreneble, mi ne iros.
+
+91. Let us take the word vivi (_to live, be-alive_). From the
+root viv you can form:
+
+    vivO (the noun), _life_
+    vivA (the adjective), _of life, lively, vivacious_
+    vivE (the adverb), _with life, in a lively manner_
+    vivAS (the present tense), _lives, does live, is living_.
+    vivIS (the past tense), _lived, did live, was living_
+    vivOS (the future tense), _will live_
+
+92. From ami (_to love_) form _love, loving, lovingly, loves, loved,
+will-love_.
+
+From esperi (_to hope_) form _hope, hopeful, hopefully, hopes, hoped,
+will-hope_.
+
+From telefoni (_to telephone_) form _a telephone, telephonic,
+by-telephone, is-telephoning, will-telephone, a-telephone-girl_.
+
+                LESSON X.
+
+93. You already know the phrase DirU al mi, _Say to me, tell me_.
+A wish or command is always formed by adding U to the root,
+thus:
+
+    Legu!     _Read!_
+    Penu!     _Try!_
+    Silentu!  _Be silent!_
+    Skribu!   _Write!_
+
+    Venu al mi, _Come to me_.
+    Finu vian taskon, _Finish your task_.
+    Atentu kaj aŭskultu, _Pay-attention and listen_.
+    Ne rigardu al ŝi, _Don't look at her_.
+    Ne parolu dum la leciono, _Don't talk during the lesson_.
+
+94.
+    Mi POVas iri, _I am-able to-go, I CAN go_.
+    Mi DEVas iri, _I am-bound to-go, I MUST go_.
+    Mi VOLas iri, _It-is-my-will to-go, I WILL (mean) to go_.
+
+    Mi ne povas iri, _I can't go_.
+    Ĉu vi povos iri, _Will you be able to go_?
+    Li ne povis iri, ĉu? _He couldn't go, could he?_
+
+95. If asked Kie la libro estas? (_Where is the book?_) you can
+answer JEN ĝi estas! (_Here it is_, or, _There it is_!). The word
+estas is often left out for brevity, thus: Jen ĝi!
+
+96. In sentences about the weather, such as _it is raining_, _it is
+snowing_, we do not translate the word _it_: we say, simply, Pluvas,
+Neĝas. Similarly: Ŝajnas al mi, ke, _(It) seems to me that_ ...
+
+97.
+    Sinjoro Smith (S-ro Smith), _Mr. Smith_
+    Sinjorino Smith (S-ino Smith), _Mrs. Smith_.
+    Fraŭlino Smith (F-ino Smith), _Miss Smith_.
+
+98. We use sinjoro, sinjorino also for _gentleman, lady_.
+
+    Parolu al la sinjoro, _Speak to the gentleman_.
+    Mi konas tiun sinjorinon, _I know that lady_. (Sinjorino
+        is used here whether the lady is married or not).
+
+99. Sinjoro, Sinjorino are used also for _Sir, Madam_.
+
+    Bonan tagon, Sinjoro, _Good day, Sir_.
+    Bonan vesperon, Fraŭlino B., _Good evening, Miss B_.
+    Bonan nokton, Sinjorino, _Good night, Madam_.
+
+In such sentences the full form is: (Mi deziras al vi) bonan
+tagon, etc.
+
+100. Fraŭlo means a _bachelor, a single man_. Fraŭlino therefore
+means _an unmarried lady_. An unmarried man is however addressed
+as S-ro B., just as in English he would be called _Mr._, whether
+married or not.
+
+    Ŝi estas ĉarma fraŭlino, _She is a charming young lady_.
+
+101.
+    KELKAJ fraŭlinoj kantos, _Some young ladies will sing_.
+    MULTAJ floroj estas ruĝaj, _Many flowers are red_.
+    ALIAJ estas bluaj, _Others are blue_.
+
+                READING EXERCISE I.
+
+Mia kara kuzo,
+
+Ĉu vi povas legi ĉi tiun lingvon? Ĝi estas la internacia[1]
+lingvo Esperanto. Mi havas lerno-libreton. Per la
+helpo de tiu libreto mi jam lernis sufiĉe por skribi ĉi tiun
+leteron. La libro estas tre klara, kaj mi lernas rapide.
+Esperanto estas tre simpla kaj interesa. Ĝi estas multe pli
+facila ol la Franca lingvo, kiu estas tre malfacila. Vi devas
+aĉeti libron kaj lerni la lingvon.
+
+Hieraŭ mi ricevis belan ilustritan[2] poŝt-karton de knabo,
+kiu loĝas en Finlando, kaj mi povis legi ĝin facile per la
+helpo de la vortareto. Morgaŭ mi skribos leteron al
+Japana knabo. Mia fratino ofte korespondas kun knabinoj
+en aliaj landoj. Ŝi nun havas multajn poŝt-kartojn kaj
+fremdajn poŝt-markojn.[3]
+
+Via amanta[4] kuzo,
+
+JOHN SMITH.
+
+[1] International.
+[2] Illustrated.
+[3] Postage Stamps.
+[4] Loving.
+
+                READING EXERCISE II.
+
+Mia kara onklino,
+
+Mi dankas vin pro la bela pupo, kiun vi sendis al mi
+Mi multe amas ĝin: ĝi havas bluajn okulojn kaj ruĝajn
+vangojn, kaj ĝi povas fermi la okulojn.
+
+Mi estas tre feliĉa ĉi tie. La floroj en la ĝardeno estas
+belaj. Kelkaj pom-arboj estas en la ĝardeno, sed la frukto ne
+estas matura. Estas[1] kokoj kaj kokinoj sur la korto, kaj ŝafoj
+kaj bovinoj sur la granda kampo. Ni ludas en la ĝardeno.
+Kiam mi estas laca, mi sidas sur benko sub la arboj kaj legas.
+La birdoj kantas sur la arboj, kaj belaj papilioj[2] flugas en la
+ĝardeno. Mia avo ofte sidas sur granda seĝo apud la fenestro,
+kaj legas gazeton[3] aŭ libron. Li havas multajn librojn.
+Sed mi devas fini mian leteron, ĉar mia kara avino diras, ke
+mi devas nun iri al la lito. Bonan nokton!
+
+Via amanta nevino,
+
+ETHEL BROWN.
+
+[1] (There) are.
+[2] Butterflies.
+[3] Magazine.
+
+[...]
+
+                VOCABULARY.
+
+    A
+
+aĉeti - to buy
+aĝo - age
+akra - sharp
+akvo - water
+al - to
+alia - other, another
+alta - high
+ami - to love
+amiko - friend
+antaŭ - before
+apud - near, by
+arbo - tree
+aritmetiko - arithmetic
+atenti - to pay attention
+aŭdi - to hear
+aŭskulti - to listen
+avo - grandfather
+
+    B
+
+baldaŭ - soon
+banano - banana
+bano - bath
+bela - beautiful
+benko - bench
+besto - animal
+bildo - picture
+birdo - bird
+blanka - white
+blua - blue
+bona - good
+boto - boot
+bovo - ox
+branĉo - branch
+breto - shelf
+brili - to shine
+bruna - brown
+
+    C
+
+cent - hundred
+certe - certainly
+
+    Ĉ
+
+ĉambro - room
+ĉapo - cap
+ĉapelo - hat
+ĉar - because
+ĉarma - charming
+ĉevalo - horse
+ĉi - _see Lesson 7_
+ĉiam - always
+ĉie - everywhere
+ĉielo - sky
+ĉokolado - chocolate
+ĉu - _see Lesson 3_
+
+    D
+
+danco - dance
+danki - to thank
+de - of, from
+dento - tooth
+dek - ten
+devas - must
+dika - thick
+diri - to say, tell
+dolĉa - sweet
+domo - house
+doni - to give
+dormi - to sleep
+du - two
+dum - during
+
+    E
+
+eble - perhaps
+efektive - as a matter of fact
+en - in
+esti - to be
+
+    F
+
+facila - easy
+fajfi - to whistle
+fari - do, make
+feliĉa - happy
+fenestro - window
+fermi - close
+filo - son
+fini - to finish
+fiŝo - fish
+flava - yellow
+floro - flower
+flugi - to fly
+for - away
+forko - fork
+forta - strong
+fosi - to dig
+franca - French
+frato - brother
+fraŭlo - bachelor
+fremda - foreign
+freŝa - fresh
+frukto - fruit
+futbalo - football
+
+    G
+
+gaja - gay
+geografio - geography
+glaso - glass (drinking)
+granda - large, big
+griza - gray
+
+    Ĝ
+
+ĝardeno - garden
+ĝi - it
+
+    H
+
+haki - to chop
+haro - hair
+havi - to have
+hela - bright
+helpo - help
+hieraŭ - yesterday
+hodiaŭ - to-day
+hundo - dog
+
+    I
+
+ili - they
+infano - child
+inko - ink
+instrui - to teach
+inter - between
+interesa - interesting
+iri - to go
+
+    J
+
+jam - already
+jaro - year
+jen - _see Lesson 10_
+jes - yes
+juĝi - to judge
+juna - young
+
+    K
+
+kafo - coffee
+kaĝo - cage
+kaj - and
+kajero - copybook
+kameno - fireplace
+kampo - field
+kanti - to sing
+kara - dear
+kato - cat
+kia - of what kind
+kie - where
+kelkaj - some
+kial - why
+kiam - when
+kio - what (thing)
+kiom - what quantity
+kiu - who, which
+klara - clear
+knabo - boy
+koko - cock
+kombi - to comb
+kompreneble - of course
+koni - to know, be acquainted with
+korespondi - to correspond
+korto - courtyard
+krajono - pencil
+kreto - chalk
+kriketo - cricket
+kudri - to sew
+kuri - to run
+kuŝi - lie down
+kuzo - cousin
+kvar - four
+kvin - five
+
+    L
+
+la - the
+labori - to work
+laca - tired
+laŭta - loud
+leciono - lesson
+legi - to read
+leono - lion
+lernanto - pupil
+lernejo - school
+lerni - to learn
+lerta - clever
+letero - letter
+li - he
+libro - book
+ligno - wood
+lingvo - language
+linio - line
+lito - bed
+loĝi - to dwell, to live
+loko - place
+longa - long
+ludi - to play
+lumo - light
+luno - moon
+
+    M
+
+mano - hand
+mapo - map
+manĝi - to eat
+matura - ripe
+meblo - article of furniture
+mil - thousand
+miliono - million
+mola - soft
+monto - mountain
+morgaŭ - to-morrow
+multaj - many, a lot of
+multe - much
+muro - wall
+muŝo - fly
+
+    N
+
+naĝi - to swim
+naŭ - nine
+ne - no, not
+nebulo - fog
+neĝo - snow
+neniam - never
+nenie - nowhere
+nepo - grandson
+nevo - nephew
+ni - we
+nigra - black
+nomo - name
+nokto - night
+nova - new
+nubo - cloud
+nun - now
+nur - only
+
+    O
+
+objekto - object, thing
+ofte - often
+ok - eight
+okulo - eye
+ol - than
+onklo - uncle
+oranĝo - orange
+oni - one (people)
+ovo - egg
+
+    P
+
+paĝo - page
+pano - bread
+papero - paper
+paroli - to speak
+patro - father
+penco - penny
+peni - to try
+pentri - to paint
+per - by, by means of
+persono - person
+peti - to beg
+piro - pear
+plafono - ceiling
+planko - floor
+plena - full
+pli - more
+plori - to weep
+plumo - pen
+pluvo - rain
+pomo - apple
+pordo - door
+post - after
+poŝtkarto - postcard
+povas - can
+presi - to print
+preta - ready
+prava - in the right
+preferi - to prefer
+preĝejo - church
+preni - to take
+pro - because of
+puni - to punish
+pupo - doll
+pupitro - desk
+pura - clean
+
+    R
+
+rabi - to rob
+rapida - quick
+reĝo - king
+ricevi - to receive
+riĉa - rich
+ridi - to laugh
+rigardi - to look at
+ripozi - to rest
+robo - robe
+rozo - rose
+rompi - to break
+ruĝa - red
+
+    S
+
+saĝa - wise
+salti - to jump
+sana - healthy
+se - if
+sed - but
+segi - to saw
+seĝo - chair
+sendi - to send
+sep - seven
+serĉi - to search
+servanto - servant
+ses - six
+sidi - to sit
+silenti - to be silent
+simpla - simple
+sincera - sincere
+sinjoro - sir, Mr., gentleman
+skatolo - a box
+skribi - to write
+sovaĝa - savage, wild
+stari - to stand
+stelo - star
+strato - street
+sub - under
+sufiĉe - enough
+suno - sun
+sur - on
+
+    Ŝ
+
+ŝafo - sheep
+ŝajni - to seem
+ŝi - she
+ŝipo - ship
+ŝtono - stone
+ŝtupo - step
+ŝuo - shoe
+
+    T
+
+tablo - table
+tabulo - board
+tago - day
+taso - cup
+tasko - task
+telefono - telephone
+teni - to hold
+teniso - tennis
+teo - tea
+tie - there
+tio - that (thing)
+tiu - that
+tondi - to shear
+tranĉi - to cut
+tre - very
+tri - three
+trinki - to drink
+tuŝi - to touch
+
+    U
+
+unu - one
+uzi - to use
+
+    V
+
+vagono - railway carriage
+vango - cheek
+varma - warm
+vazo - vase
+vendi - to sell
+veni - to come
+vera - true
+verda - green
+vespero - evening
+vi - you
+vidi - to see
+vilaĝo - village
+viro - man, male
+viŝi - to wipe
+vivi - to live (be alive)
+voki - to call
+voli - to will
+vorto - word
