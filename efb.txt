@@ -32,6 +32,16 @@
 # for punctuation is sometimes unclear and sometimes inconsistent and
 # is not reproduced faithfully.
 
+# In the "Vocabulary" in the TXT file a hyphen ("-") is inserted
+# between each Esperanto word and its translation, these being
+# distinguished in the original edition and in the HTML file by being
+# bold and plain, respectively.
+
+# Where in the original edition a hyphen appears at the end of a line,
+# in both the TXT and the HTML file the word is instead kept on one
+# line and the hyphen preserved only when it was a "hard" rather than
+# a "soft" hyphen: all such cases were easy to decide.
+
         ESPERANTO for BEGINNERS
         By MONTAGU C. BUTLER
 
